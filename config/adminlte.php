@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'AdminLTE 3',
+    'title' => 'SIASIK-PPI87',
     'title_prefix' => '',
     'title_postfix' => '',
 
@@ -320,8 +320,8 @@ return [
         ],
         ['header' => 'account_settings'],
         [
-            'text' => 'profile',
-            'url'  => 'admin/settings',
+            'text' => 'Pengguna',
+            'url'  => 'admin/pengguna',
             'icon' => 'fas fa-fw fa-user',
         ],
         [
